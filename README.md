@@ -1,5 +1,6 @@
-### Hi there 👋 
-### I'm Gabriel Araujo, too glad you're here
+### Hi there 🙂 I'm glad you're here
+
+I love creating ideas and develop solutions for mobile applications using not only technical knowledge but awesome user experience.
 
   <div>
     <a href="https://github.com/gsaaraujo">
@@ -20,4 +21,5 @@
   
    <div>
     <a href="https://www.linkedin.com/in/gabriel-araujo-371591219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     <a href = "mailto:gabriel.houth@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
