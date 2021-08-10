@@ -1,6 +1,12 @@
-### Hi there 🙂 I'm glad you're here
+<p>
+  <h2><samp>Hi there, nice to meet you 🙂</samp></h2>
+</p>
 
-I love creating ideas and develop solutions for mobile applications using not only technical knowledge but awesome user experience.
+<p>
+  <samp>I love creating ideas and develop solutions for mobile applications using not only technical knowledge but awesome user experience. If you need some help or just say something I'll be glad to do so.</samp>
+</p>
+
+##
 
   <div>
     <a href="https://github.com/gsaaraujo">
