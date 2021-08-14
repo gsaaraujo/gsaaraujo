@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <samp>I love creating ideas and develop solutions for mobile applications using not only technical knowledge but providing awesome user experience as well. If you need some help or just say something I'll be glad to do so.</samp>
+  <samp>I love creating ideas and develop solutions for web and mobile application using not only technical knowledge but providing awesome user experience as well. If you need some help or just say something I'll be glad to do so.</samp>
 </p>
 
 ##
