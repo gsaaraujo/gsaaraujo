@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <samp>I love creating ideas and develop solutions for web and mobile application using not only technical knowledge but providing awesome user experience as well. If you need some help or just say something I'll be glad to do so.</samp>
+  <samp>I love creating ideas and develop solutions for mobile application using not only technical knowledge but providing awesome user experience as well. If you need some help or just say something I'll be glad to do so.</samp>
 </p>
 
 ##
@@ -14,6 +14,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsaaraujo&layout=compact&langs_count=7&theme=dracula"/>
   </div>
   <div style="display: flex"><br>
+    <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Tests" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
     <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
